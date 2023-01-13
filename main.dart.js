@@ -60778,7 +60778,7 @@ case 3:return A.R(null,r)}})
 return A.S($async$cq,r)},
 ng(){var s=0,r=A.T(t.z),q
 var $async$ng=A.U(function(a,b){if(a===1)return A.Q(b,r)
-while(true)switch(s){case 0:q=A.q_("tel:9595242507",0,null)
+while(true)switch(s){case 0:q=A.q_("tel:7384128688",0,null)
 s=5
 return A.M(A.OG(q),$async$ng)
 case 5:s=b?2:4
@@ -60792,7 +60792,7 @@ case 3:return A.R(null,r)}})
 return A.S($async$ng,r)},
 hB(){var s=0,r=A.T(t.z),q
 var $async$hB=A.U(function(a,b){if(a===1)return A.Q(b,r)
-while(true)switch(s){case 0:q=A.q_("mailto:champ96k@gmail.com",0,null)
+while(true)switch(s){case 0:q=A.q_("mailto:amansaurav2211@gmail.com",0,null)
 s=5
 return A.M(A.OG(q),$async$hB)
 case 5:s=b?2:4
